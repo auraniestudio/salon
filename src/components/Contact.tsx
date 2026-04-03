@@ -8,7 +8,7 @@ export function Contact() {
           Come say hello
         </h2>
         <p className="text-charcoal/70 text-center max-w-xl mx-auto mb-16">
-          We’d love to see you. Find us here or book online — either way, you’re welcome.
+          We’d love to see you. Find us here or book online.
         </p>
 
         <div className="grid lg:grid-cols-2 gap-12 items-start">

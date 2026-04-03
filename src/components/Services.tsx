@@ -42,10 +42,10 @@ export function Services() {
     <section id="services" className="py-24 bg-cream">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="font-display text-4xl md:text-5xl font-semibold text-charcoal text-center mb-4">
-          What we do
+         our services
         </h2>
         <p className="text-charcoal/70 text-center max-w-xl mx-auto mb-16">
-          Hair, nails, skin — the full treat. All the good stuff.
+          Hair styling, coloring, manicure, pedicure, and facial treatments.
         </p>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
